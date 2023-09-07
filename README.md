@@ -49,7 +49,7 @@ pnpm run dev
 
 ### ESLint 구성 (린터)
 
-`pnpm eslint .` 을 통해 린트한다. (린팅에 포매팅이 포함되며 이때 Prettier 설정을 따른다.)
+`pnpm exec eslint .` 을 통해 린트한다. (린팅에 포매팅이 포함되며 이때 Prettier 설정을 따른다.)
 
 - `.eslintrc.yml`
 
